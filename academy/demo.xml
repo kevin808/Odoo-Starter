@@ -28,6 +28,7 @@
     <data>
         <record model="openacademy.course" id="course0">
             <field name="name">Course 1</field>
+            <field name="responsible_id">1</field>
             <field name="description">Course 0's description
 
 Can have multiple lines
